@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EventTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EventTools_jar</output-path>
+    <root id="archive" name="EventTools.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/plugin.json" />
+      </element>
+      <element id="module-output" name="EventTools" />
+    </root>
+  </artifact>
+</component>

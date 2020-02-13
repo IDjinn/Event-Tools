@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bubbelalerts-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Arcturus-Community-dev/out/artifacts/Habbo_jar/plugins/bubbelalerts-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

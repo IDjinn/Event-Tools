@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EventTools:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6919b64b-3860-41e9-8122-ea2118bf2439" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WMdsCpezYaCSACPi3T1OUl6WyP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Arcturus-Community-dev/out/artifacts/Habbo_jar/plugins/bubbelalerts-1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.eu.event.tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marcos\Desktop\Lucas\Arcturus Plugins\EventTools\src\java\eu\event\tools" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6919b64b-3860-41e9-8122-ea2118bf2439" name="Default Changelist" comment="" />
+      <created>1578963601176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578963601176</updated>
+      <workItem from="1578963603016" duration="1240000" />
+      <workItem from="1578964847426" duration="2000" />
+      <workItem from="1579022810035" duration="277000" />
+      <workItem from="1579023359952" duration="305000" />
+      <workItem from="1579043133907" duration="8412000" />
+      <workItem from="1579266942560" duration="16000" />
+      <workItem from="1579293330040" duration="2753000" />
+      <workItem from="1579384929070" duration="16000" />
+      <workItem from="1579398456342" duration="25000" />
+      <workItem from="1579451244516" duration="652000" />
+      <workItem from="1579456437642" duration="19000" />
+      <workItem from="1579456976140" duration="15000" />
+      <workItem from="1579458028768" duration="23000" />
+      <workItem from="1579823628060" duration="1469000" />
+      <workItem from="1580172680514" duration="2309000" />
+      <workItem from="1580175261121" duration="2255000" />
+      <workItem from="1580179158303" duration="861000" />
+      <workItem from="1580227659735" duration="461000" />
+      <workItem from="1580239786539" duration="151000" />
+      <workItem from="1580256150375" duration="812000" />
+      <workItem from="1580257738416" duration="603000" />
+      <workItem from="1580354505437" duration="603000" />
+      <workItem from="1580390105691" duration="39000" />
+      <workItem from="1580394141869" duration="2475000" />
+      <workItem from="1580399518467" duration="781000" />
+      <workItem from="1580401080245" duration="942000" />
+      <workItem from="1580414150999" duration="1370000" />
+      <workItem from="1580420063571" duration="1557000" />
+      <workItem from="1580481060853" duration="391000" />
+      <workItem from="1580483800897" duration="1727000" />
+      <workItem from="1580494871842" duration="1692000" />
+      <workItem from="1580513262598" duration="1151000" />
+      <workItem from="1580515208046" duration="3814000" />
+      <workItem from="1580821111481" duration="787000" />
+      <workItem from="1580822819108" duration="198000" />
+      <workItem from="1581023676898" duration="861000" />
+      <workItem from="1581129713273" duration="832000" />
+      <workItem from="1581130670873" duration="800000" />
+      <workItem from="1581170053542" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1578963730923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578963730923" />
+    <state x="275" y="21" key="#SQL_Dialects" timestamp="1579052911555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1579052911555" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1580420895568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580420895568" />
+    <state x="413" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579044541542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1579044541542" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579043797613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579043797613" />
+    <state x="389" y="104" key="FileChooserDialogImpl" timestamp="1580399546084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580399546084" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1580483880315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580483880315" />
+    <state x="413" y="129" key="extract.method.dialog" timestamp="1580486973262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="129" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1580486973262" />
+    <state x="380" y="96" width="606" height="536" key="find.popup" timestamp="1578964634605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1578964634605" />
+  </component>
+</project>

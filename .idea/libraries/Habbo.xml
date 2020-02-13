@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Habbo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Arcturus-Community-dev/out/artifacts/Habbo_jar/Habbo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
